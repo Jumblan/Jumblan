@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Jumblan/Jumblan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  🔍🌍 I’m currently looking for a job as data analyst 
+-  🎓  I’m just finished Bootcamp in [Adalab](https://adalab.es/)
+-  🤝  I’m looking to collaborate on any project about:
+     
+     ✔ Collect and analyze data from various sources, including internal and external data sets
+  
+     ✔ Develop and apply statistical models and algorithms for data analysis and prediction generation
+  
+     ✔ Design and maintenance of dashboards based on the needs of the business and/or area
+  
+     ✔ Collaborate with interdisciplinary teams to develop and implement data-driven solutions
+      
+- 📫 How to reach me: jmblanco227@gmail.com and and [LindkeIn] (www.linkedin.com/in/judith-m-blanco)
+
