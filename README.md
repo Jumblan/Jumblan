@@ -13,5 +13,5 @@
   
       ✔ Collaborate with interdisciplinary teams to develop and implement data-driven solutions
        
--   📫 How to reach me: jmblanco227@gmail.com and and [LindkeIn] (www.linkedin.com/in/judith-m-blanco)
+-   📫 How to reach me: jmblanco227@gmail.com and and www.linkedin.com/in/judith-m-blanco
 
